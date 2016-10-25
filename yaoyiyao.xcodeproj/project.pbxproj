@@ -15,6 +15,7 @@
 		24E192D41DBEF46F00EBDA9E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 24E192D31DBEF46F00EBDA9E /* Assets.xcassets */; };
 		24E192D71DBEF46F00EBDA9E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 24E192D51DBEF46F00EBDA9E /* LaunchScreen.storyboard */; };
 		24E192E21DBEF46F00EBDA9E /* yaoyiyaoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 24E192E11DBEF46F00EBDA9E /* yaoyiyaoTests.m */; };
+		24E192ED1DBF07ED00EBDA9E /* example.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 24E192EC1DBF07ED00EBDA9E /* example.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -42,6 +43,7 @@
 		24E192DD1DBEF46F00EBDA9E /* yaoyiyaoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = yaoyiyaoTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		24E192E11DBEF46F00EBDA9E /* yaoyiyaoTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = yaoyiyaoTests.m; sourceTree = "<group>"; };
 		24E192E31DBEF46F00EBDA9E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		24E192EC1DBF07ED00EBDA9E /* example.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = example.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +90,7 @@
 				24E192CA1DBEF46F00EBDA9E /* ViewController.h */,
 				24E192CB1DBEF46F00EBDA9E /* ViewController.m */,
 				24E192CD1DBEF46F00EBDA9E /* Main.storyboard */,
+				24E192EC1DBF07ED00EBDA9E /* example.jpg */,
 				24E192D31DBEF46F00EBDA9E /* Assets.xcassets */,
 				24E192D51DBEF46F00EBDA9E /* LaunchScreen.storyboard */,
 				24E192D81DBEF46F00EBDA9E /* Info.plist */,
@@ -199,6 +202,7 @@
 			files = (
 				24E192D71DBEF46F00EBDA9E /* LaunchScreen.storyboard in Resources */,
 				24E192D41DBEF46F00EBDA9E /* Assets.xcassets in Resources */,
+				24E192ED1DBF07ED00EBDA9E /* example.jpg in Resources */,
 				24E192CF1DBEF46F00EBDA9E /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -419,6 +423,7 @@
 				24E192E81DBEF46F00EBDA9E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		24E192E91DBEF46F00EBDA9E /* Build configuration list for PBXNativeTarget "yaoyiyaoTests" */ = {
 			isa = XCConfigurationList;
@@ -427,6 +432,7 @@
 				24E192EB1DBEF46F00EBDA9E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
